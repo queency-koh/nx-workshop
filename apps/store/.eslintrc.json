@@ -13,7 +13,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "bgHord",
+            "prefix": "bghoard",
             "style": "camelCase"
           }
         ],
@@ -21,7 +21,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "bg-hord",
+            "prefix": "bg-hoard",
             "style": "kebab-case"
           }
         ]

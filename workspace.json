@@ -5,7 +5,7 @@
       "projectType": "application",
       "root": "apps/store",
       "sourceRoot": "apps/store/src",
-      "prefix": "bg-hord",
+      "prefix": "bg-hoard",
       "targets": {
         "build": {
           "executor": "@angular-devkit/build-angular:browser",
